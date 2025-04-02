@@ -87,26 +87,6 @@
 
       },
 
-      "STRING_SESSION2": {
-
-        "description": "A Pyrogram v2 String Session from Replit.",
-
-        "value": "",
-
-        "required": true
-
-      },
-
-      "STRING_SESSION3": {
-
-        "description": "A Pyrogram v2 String Session from Replit.",
-
-        "value": "",
-
-        "required": true
-
-      },
-
       "DURATION_LIMIT": {
 
         "description": "The maximum allowed duration in minutes.",
